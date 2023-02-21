@@ -1,2 +1,2 @@
 # Action-Recognition
-RNN + CNN  
+model: CNN + LSTM (ConvLSTM2D)
