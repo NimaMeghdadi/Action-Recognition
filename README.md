@@ -12,3 +12,5 @@ You should run main code first and use extera code for saving time ex.model imag
 
 This model have 93% accuracy in train dataset and 78% accuracy in test dataset.
 you can use this as pretrained dataset.
+
+https://www.kaggle.com/code/nimameghdadi/human-action-recognition-with-cnn-lstm
