@@ -1,5 +1,8 @@
 # Action-Recognition
+
 model: CNN + LSTM (ConvLSTM2D)
+
+##dependency
 
 This project based on kaggle envirnmrnt if you want to run propely I reccomend to run in Kaggle.
 
