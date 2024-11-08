@@ -1,5 +1,3 @@
-# Action-Recognition
-
 # Human Action Recognition with CNN-LSTM
 
 This repository contains an implementation of a Human Action Recognition system using a CNN-LSTM model. The project aims to classify human actions in video sequences by leveraging the strengths of both convolutional neural networks (CNNs) and long short-term memory networks (LSTMs). The CNN-LSTM model allows us to efficiently capture spatial and temporal patterns in video data, leading to more accurate action recognition.
